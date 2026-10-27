@@ -4,7 +4,7 @@ A curated collection of search engines, tools, and reference materials for Open 
 
 Contents
 
-search-engines.md
+* search-engines.md
 
 * Search Engines & Advanced Search
 
