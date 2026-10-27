@@ -6,7 +6,7 @@ A collection of tools for finding matching images, researching publicly availabl
 
 *https://lens.google.com - Find visually similar images and webpages containing matching images.
 *https://www.bing.com/visualsearch — Search the web using an image or screenshot.
-* TinEye — Find matching images and investigate where they appear online.
+*https://tineye.com - Find matching images and investigate where they appear online.
 * Yandex Images — Search for visually similar images.
 
 2. Image Metadata & Analysis
