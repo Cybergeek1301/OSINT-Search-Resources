@@ -6,7 +6,7 @@ The goal of this repository is to provide a centralized reference for OSINT rese
 
 Contents
 
-* Search Engines & Advanced Search
+* search-engines.md
 * Username & Alias Search
 * Real Name Search
 * Social Media Research
