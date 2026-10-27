@@ -5,7 +5,7 @@ A collection of tools for finding matching images, researching publicly availabl
 1. Reverse Image Search
 
 *https://lens.google.com - Find visually similar images and webpages containing matching images.
-* Bing Visual Search — Search the web using an image or screenshot.
+*https://www.bing.com/visualsearch — Search the web using an image or screenshot.
 * TinEye — Find matching images and investigate where they appear online.
 * Yandex Images — Search for visually similar images.
 
