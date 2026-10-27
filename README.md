@@ -6,7 +6,7 @@ Contents
 
 Search Engines
 
-• search-engines.md
+* search-engines.md
 
 People & Account Research
 
