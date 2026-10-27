@@ -6,7 +6,7 @@ Contents
 
 Search Engines
 
-* https://github.com/Cybergeek1301/OSINT-Search-Resources/blob/f55e1044f2294acfd733487c3ac3131c53e24831/README.md
+* search-engines.md
 
 People & Account Research
 
