@@ -12,8 +12,8 @@ People & Account Research
 
 * username-search.md
 * name-search.md
-* Social Media Search
-* Phone Number Lookup
+* social-media.md
+* phone-lookup.md
 
 Email, Domains & Websites
 
