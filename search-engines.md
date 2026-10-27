@@ -1,46 +1,40 @@
 Search Engines & Advanced Search
 
-A collection of search engines, advanced search operators, and techniques for finding publicly indexed information online.
+A collection of search engines and search operators for researching publicly available information.
 
-General Search Engines
+1. General Search Engines
 
-* Google — General-purpose search engine with advanced search operators.
-* Bing — Search engine useful for finding web pages, images, and other indexed content.
-* DuckDuckGo — Search engine with a privacy-focused approach.
-* Brave Search — Independent search engine with its own web index.
+* Google — General web searches and advanced search operators.
+* Bing — Web searches and indexed webpages.
+* Brave Search — Independent web search.
+* DuckDuckGo — Web search with a privacy-focused approach.
+* Mojeek — Independent search engine.
 
-Advanced Search Operators
+2. Specialized Search Resources
 
-Operator	Purpose	Example
-"exact phrase"	Search for an exact phrase	"username123"
-site:	Restrict results to a website or domain	site:reddit.com username123
-intitle:	Find pages with a term in the title	intitle:OSINT resources
-inurl:	Find URLs containing a term	inurl:profile username123
--term	Exclude a term from results	OSINT -jobs
-OR	Search for either of two terms	OSINT OR "open-source intelligence"
-filetype:	Search for a particular file type	OSINT filetype:pdf
+* Google Scholar — Search academic literature.
+* Internet Archive — Explore archived webpages and digital materials.
+* Wayback Machine — View archived versions of websites.
 
-Operator support and behavior vary by search engine.
+3. Advanced Google Search Operators
 
-Example Searches
+* site:example.com — Search for pages indexed from a specific domain.
+* "exact phrase" — Search for an exact phrase.
+* -word — Exclude results containing a word.
+* filetype:pdf — Find indexed PDF files.
+* intitle:keyword — Search for pages with a word in the title.
+* before:2025-01-01 — Filter results to before a date.
+* after:2024-01-01 — Filter results to after a date.
 
-Search for a username on a particular website:
+Replace example domains, words, and dates with your search terms. Search operators vary by search engine and may not always work as expected.
 
-site:reddit.com "username123"
+4. Search Tips
 
-Search for publicly indexed PDF documents about OSINT:
+* Try more than one search engine because results and indexes differ.
+* Use specific keywords and exact phrases.
+* Cross-check important information using independent sources.
+* Treat search results as leads, not proof.
 
-OSINT filetype:pdf
+5. Responsible Use
 
-Search for pages mentioning a specific phrase while excluding unrelated results:
-
-"open-source intelligence" -jobs
-
-Replace example usernames and phrases with the terms relevant to your research.
-
-Notes
-
-* Search results depend on what search engines have indexed.
-* Some operators may be unsupported or behave differently across platforms.
-* A search result alone does not verify a person’s identity or establish that two accounts belong to the same person.
-* Use search tools responsibly and respect privacy and applicable laws.
+Use search tools for lawful research and respect privacy, website terms, and applicable laws.
