@@ -4,9 +4,9 @@ A curated collection of search engines, tools, and reference materials for Open 
 
 Contents
 
-Search Engines
+search-engines.md
 
-* Search-engines.md
+* Search Engines & Advanced Search
 
 People & Account Research
 
