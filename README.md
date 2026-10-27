@@ -6,11 +6,11 @@ Contents
 
 Search Engines
 
-* Search Engines & Advanced Search
+* search-engines.md
 
 People & Account Research
 
-* "username-search.md"
+* username-search.md
 * name-search.md
 * Social Media Search
 * Phone Number Lookup
