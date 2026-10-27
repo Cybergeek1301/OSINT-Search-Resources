@@ -4,17 +4,17 @@ A collection of search engines and search operators for researching publicly ava
 
 1. General Search Engines
 
-* Google — General web searches and advanced search operators.
-* Bing — Web searches and indexed webpages.
-* Brave Search — Independent web search.
-* DuckDuckGo — Web search with a privacy-focused approach.
-* Mojeek — Independent search engine.
+*https://www.google.com - General web searches and advanced search operators.
+*https://www.bing.com - Web searches and indexed webpages.
+*https://search.brave.com - Independent web search.
+*https://duckduckgo.com - Web search with a privacy-focused approach.
+*https://www.mojeek.com - Independent search engine.
 
 2. Specialized Search Resources
 
-* Google Scholar — Search academic literature.
-* Internet Archive — Explore archived webpages and digital materials.
-* Wayback Machine — View archived versions of websites.
+*https://scholar.google.com - Search academic literature.
+*https://archive.org - Explore archived webpages and digital materials.
+*https://web.archive.org - View archived versions of websites.
 
 3. Advanced Google Search Operators
 
