@@ -15,9 +15,9 @@ People & Account Research
 * Social Media Search
 * Phone Number Lookup
 
-Email, Domains & Websites
+Email & Domain Research
 
-* Email & Domain Research
+* Email & Domain OSINT Resources
 
 Images & Visual Verification
 
@@ -25,7 +25,7 @@ Images & Visual Verification
 
 Purpose
 
-This repository organizes useful OSINT resources in one place. It is intended for education, research, journalism, digital literacy, and authorized investigations.
+This repository organizes useful OSINT resources in one place for education, research, journalism, digital literacy, and authorized investigations.
 
 Responsible Use
 
@@ -37,4 +37,4 @@ Responsible Use
 
 Contributions
 
-Suggestions for additional reputable resources are welcome. Before adding a resource, verify that it is relevant, functional, and appropriate for lawful OSINT research.
+Suggestions for additional reputable resources are welcome. Verify that resources are relevant, functional, and appropriate for lawful OSINT research before adding them.
