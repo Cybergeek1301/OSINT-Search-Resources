@@ -1,45 +1,44 @@
 Reverse Image Search & Image OSINT
 
-Resources for finding matching images, tracing publicly available image sources, examining image metadata, and verifying visual information.
+A collection of tools for finding matching images, researching publicly available image sources, examining image metadata, and verifying visual information.
 
-Reverse Image Search
+1. Reverse Image Search
 
 * Google Lens — Find visually similar images and webpages containing matching images.
 * Bing Visual Search — Search the web using an image or screenshot.
-* TinEye — Find image matches and explore where an image appears online.
-* Yandex Images — Reverse image search and visual similarity searches.
+* TinEye — Find matching images and investigate where they appear online.
+* Yandex Images — Search for visually similar images.
 
-Image Metadata & File Analysis
+2. Image Metadata & Analysis
 
-* ExifTool — Read and examine metadata embedded in image and other file types.
+* ExifTool — Read and examine image metadata.
 * Metadata2Go — Inspect metadata in supported uploaded files.
 * Jeffrey’s Image Metadata Viewer — Examine available EXIF and other image metadata.
 
-Note: Many social media platforms strip metadata when images are uploaded. GPS coordinates and other sensitive information may be absent, altered, or inaccurate. Check the original file when possible.
+Note: Social media platforms often remove metadata from uploaded images. Metadata can also be missing, inaccurate, or modified.
 
-Image Verification & Context
+3. Image and Video Verification
 
-* Google Lens — Identify visually similar content and search for possible original sources.
-* TinEye — Compare image matches and available indexed dates.
 * InVID-WeVerify — Tools and guidance for verifying online images and videos.
-* Wayback Machine — Check archived versions of webpages that may have contained an image.
+* Google Lens — Search for similar visual content and possible sources.
+* TinEye — Compare image matches and available indexing information.
+* Internet Archive Wayback Machine — Check archived versions of webpages that may have contained an image.
 
-Search Techniques
+4. Search Techniques
 
-Try searching for the image or related text using multiple services. Different search engines index different parts of the web.
+* Search an image using multiple reverse image search engines.
+* Crop an image to focus on a distinctive object, logo, landmark, or other detail.
+* Search for text, captions, signs, or watermarks visible in the image.
+* Compare image backgrounds and other visual details.
+* Look for earlier versions of the webpage where an image appeared.
+* Verify important findings using independent sources.
 
-Useful techniques include:
+5. Limitations & Responsible Use
 
-* Search distinctive text, captions, signs, or watermarks visible in an image.
-* Crop an image to focus on a logo, object, landmark, or other distinctive detail.
-* Compare image dimensions, visible edits, backgrounds, and other identifying features.
-* Search for older versions of the webpage where the image appeared.
-* Cross-check important findings with independent sources.
-
-Important Limitations
-
-* A visually similar result does not prove two images are the same original file.
-* Search results and indexing dates do not necessarily establish when an image was first published.
-* Metadata can be removed, edited, or forged.
-* Avoid treating facial similarity alone as proof of a person’s identity.
+* Similar-looking images do not necessarily share the same original source.
+* Search results may not reveal the first time an image was published.
+* Metadata can be removed, edited, or inaccurate.
+* Facial similarity alone does not establish a person’s identity.
 * Respect privacy, copyright, and applicable laws when researching images.
+
+Use these tools for lawful research, education, journalism, and authorized investigations.
