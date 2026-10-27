@@ -10,7 +10,7 @@ Search Engines
 
 People & Account Research
 
-* Username Search
+* username-search.md
 * Name Search
 * Social Media Search
 * Phone Number Lookup
