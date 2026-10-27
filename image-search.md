@@ -7,22 +7,22 @@ A collection of tools for finding matching images, researching publicly availabl
 *https://lens.google.com - Find visually similar images and webpages containing matching images.
 *https://www.bing.com/visualsearch — Search the web using an image or screenshot.
 *https://tineye.com - Find matching images and investigate where they appear online.
-* Yandex Images — Search for visually similar images.
+*https://yandex.com/images - Search for visually similar images.
 
 2. Image Metadata & Analysis
 
-* ExifTool — Read and examine image metadata.
-* Metadata2Go — Inspect metadata in supported uploaded files.
-* Jeffrey’s Image Metadata Viewer — Examine available EXIF and other image metadata.
+*https://exiftool.org - Read and examine image metadata.
+*https://www.metadata2go.com - Inspect metadata in supported uploaded files.
+*https://exif.regex.info/exif.cgi - Examine available EXIF and other image metadata.
 
 Note: Social media platforms often remove metadata from uploaded images. Metadata can also be missing, inaccurate, or modified.
 
 3. Image and Video Verification
 
-* InVID-WeVerify — Tools and guidance for verifying online images and videos.
-* Google Lens — Search for similar visual content and possible sources.
-* TinEye — Compare image matches and available indexing information.
-* Internet Archive Wayback Machine — Check archived versions of webpages that may have contained an image.
+*https://www.invid-project.eu - tools-and-services/invid-verification-plugin/Tools and guidance for verifying online images and videos.
+*https://lens.google.com - Search for similar visual content and possible sources.
+*https://tineye.com - Compare image matches and available indexing information.
+*https://web.archive.org - Check archived versions of webpages that may have contained an image.
 
 4. Search Techniques
 
