@@ -1,4 +1,4 @@
-OSINT Search Resources
+# OSINT Search Resources
 
 A curated collection of search engines, tools, and reference materials for Open Source Intelligence (OSINT) research using publicly available information.
 
