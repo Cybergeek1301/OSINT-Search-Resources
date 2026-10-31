@@ -17,11 +17,11 @@ People & Account Research
 
 Email, Domains & Websites
 
-* Email & Domain Research
+* Email & Domain OSINT Resources
 
 Images & Visual Verification
 
-* Reverse Image Search
+* Reverse Image Search & Image OSINT
 
 Purpose
 
@@ -37,4 +37,4 @@ Responsible Use
 
 Contributions
 
-Suggestions for additional reputable resources are welcome. Before adding a resource, verify that it is relevant, functional, and appropriate for lawful OSINT research.
+Suggestions for additional reputable resources are welcome. Verify that resources are relevant, functional, and appropriate for lawful OSINT research before adding them.
