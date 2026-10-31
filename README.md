@@ -15,9 +15,9 @@ A curated collection of search engines, tools, and reference materials for Open 
 * Social Media Search
 * Phone Number Lookup
 
-* Email & Domain OSINT Resources
-
 # Email, Domains & Websites
+
+* Email & Domain OSINT Resources
 
 Images & Visual Verification
 
